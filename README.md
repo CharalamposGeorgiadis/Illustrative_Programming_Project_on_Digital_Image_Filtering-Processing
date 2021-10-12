@@ -2,9 +2,9 @@
 Illustrative Programming Project on Digital Image Filtering and Processing for Python 3.7 using openCV.
 The project is separated into 3 chapters:
 
-1: Image Noise, which contains functions for corrupting an image with Gaussian, Salt and Pepper and Multiplicative noise.
-2: Image Filterting, which contains algorithsm for filtering an image that has been corrupted by noise.
-3: Image Processing, which contains algorithms for Image Halftoning, Image Interpolation and Histogram Equalization.
+Image Noise: Contains functions for corrupting an image with Gaussian, Salt and Pepper and Multiplicative noise.
+Image Filterting: Contains algorithsm for filtering an image that has been corrupted by noise.
+Image Processing: Contains algorithms for Image Halftoning, Image Interpolation and Histogram Equalization.
 
 The project was supervised by Ioannis Pitas, professor at Aristotle University of Thessaloniki.
 
