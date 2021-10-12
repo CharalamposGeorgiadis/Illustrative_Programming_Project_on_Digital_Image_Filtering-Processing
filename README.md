@@ -9,6 +9,7 @@ Image Processing: Contains algorithms for Image Halftoning, Image Interpolation 
 The project was supervised by Ioannis Pitas, professor at Aristotle University of Thessaloniki.
 
 The following algorithms are found in the book "Digital Image Processing Algorithms and Applications" by I. Pitas and were converted from C to Python for this project, as instructed by professor Pitas, with some modifications made to improve their performance and effectiveness:
+
 1: Multistage Median Filtering
 2: Weighted Median Filtering
 3: Running Median Filtering
@@ -20,5 +21,6 @@ The following algorithms are found in the book "Digital Image Processing Algorit
 
 Each algorithm is separated into three folder:
 Exercise: Contains the description of an exercise so that someone can write the algorithm from scratch, as well as a Power Point presentation that contains examples of how the algorithm should affect an image.
+
 Help: Contains some helpful notes for each algorithm.
 Solution: Contains the complete code, along with input and output examples.
